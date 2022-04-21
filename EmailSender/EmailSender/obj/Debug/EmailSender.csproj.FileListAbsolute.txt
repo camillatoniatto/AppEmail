@@ -1,0 +1,9 @@
+C:\Users\Aluno\source\repos\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+C:\Users\Aluno\source\repos\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\Aluno\source\repos\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\Aluno\source\repos\EmailSender\EmailSender\obj\Debug\EmailSender.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\EmailSender\EmailSender\obj\Debug\EmailSender.FormMail.resources
+C:\Users\Aluno\source\repos\EmailSender\EmailSender\obj\Debug\EmailSender.Properties.Resources.resources
+C:\Users\Aluno\source\repos\EmailSender\EmailSender\obj\Debug\EmailSender.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\EmailSender\EmailSender\obj\Debug\EmailSender.exe
+C:\Users\Aluno\source\repos\EmailSender\EmailSender\obj\Debug\EmailSender.pdb
